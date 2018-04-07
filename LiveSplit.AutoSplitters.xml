@@ -3925,4 +3925,14 @@
     <Type>Script</Type>
     <Description>Auto splitter/resetter/starter. (By Phantom)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>MEANDERS</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/OneChillTree/OneChillTree.github.io/master/MEANDERS%20Autosplitter.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto splitter/resetter/starter. (By Chill)</Description>
+  </AutoSplitter>
 </AutoSplitters>
